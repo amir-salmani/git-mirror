@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# # Ignore specific file types (optional, if you want to explicitly ignore .txt and .log files)
+# *.txt
+# *.log
+
+# Allow only these specific files
+!README.md
+!git-mirror.sh
