@@ -104,7 +104,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Your Name ([@amir-salmani](https://github.com/amir-salmani))
+Amir A.Salmani ([@amir-salmani](https://github.com/amir-salmani))
 
 ---
 
